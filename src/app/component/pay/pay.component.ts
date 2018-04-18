@@ -12,7 +12,7 @@ export class PayComponent implements OnInit {
   public title: string;
 
   constructor() {
-    this.title = ''
+    this.title = 'Realiza tu pago'
   }
 
   ngOnInit() {

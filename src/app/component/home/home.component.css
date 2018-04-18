@@ -1,5 +1,9 @@
 * {
-  box-sizing: border-box
+  box-sizing: border-box;
+}
+
+#bodyhome {
+  background-color: #b2b0b1;
 }
 .full-screen {
   background-size: cover;
