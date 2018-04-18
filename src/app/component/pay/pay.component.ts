@@ -1,14 +1,14 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'home',
-  templateUrl: './home.component.html',
+  selector: 'pay',
+  templateUrl: './pay.component.html',
   styleUrls: ['../../app.component.scss']
 
 
 })
 
-export class HomeComponent implements OnInit {
+export class PayComponent implements OnInit {
   public title: string;
 
   constructor() {
@@ -16,7 +16,7 @@ export class HomeComponent implements OnInit {
   }
 
   ngOnInit() {
-    console.log('home.component cargado!!');
+    console.log('pay.component cargado!!');
   }
 
 }

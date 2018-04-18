@@ -22,23 +22,24 @@
   padding: 0px !important;
 }
 
-  .navigation .navbar {
-    border-radius: 0px !important;
-    background: #62A1F5 !important;
-    border: none;
-  }
+.navigation .navbar {
+  border-radius: 0px !important;
+  background: #62A1F5 !important;
+  border: none;
+}
 
-    .navigation .navbar * {
-      color: white !important;
-    }
+.navigation .navbar * {
+  color: white !important;
+}
 
-    .navigation .navbar a:hover {
-      background: #62A1F5 !important;
-    }
+.navigation .navbar a:hover {
+  background: #62A1F5 !important;
+}
 
-    .navigation .navbar .dropdown-menu* {
-      color: #005ca4 !important;
-    }
+.navigation .navbar .dropdown-menu * {
+  background-color: #62A1F5;
+  color: white !important;
+}
 
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
   background-color: #005ca4 !important;

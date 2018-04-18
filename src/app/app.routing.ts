@@ -4,14 +4,14 @@ import { Routes, RouterModule } from '@angular/router';
 //Componentes
 
 import { AppComponent } from './app.component';
-/*import { EnterpriseComponent } from './component/enterprise/component.enterprise';
-import { ContactComponent } from './component/contact/component.contact';*/
+import { PayComponent } from './component/pay/pay.component';
+/*import { ContactComponent } from './component/contact/component.contact';*/
 import { HomeComponent } from './component/home/home.component';
 
 //constante
 const appRoutes: Routes = [
   { path: '', component: HomeComponent },
- // { path: 'enterprise', component: EnterpriseComponent },
+  { path: 'pagos', component: PayComponent },
  // { path: 'contact', component: ContactComponent },
   { path: 'home', component: HomeComponent }
 
