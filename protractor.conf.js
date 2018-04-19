@@ -12,7 +12,7 @@ exports.config = {
     'browserName': 'chrome'
   },
   directConnect: true,
-  baseUrl: 'ambprueba.eu-4.evennode.com',
+  baseUrl: 'localhost:4200',
   framework: 'jasmine',
   jasmineNodeOpts: {
     showColors: true,

@@ -6,8 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  public title = 'amb';
-  public imageLogo = './images/IMAGEN-HOME.png';
+  public title = 'Acueducto Cuatro Esquinas';
+  public imageLogo = 'http://ambprueba.somee.com/image/logo.ico';
   public menu = 'Menú';
   public info1_footer = [
     'Nit: 890200162 - 2',

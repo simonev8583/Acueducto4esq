@@ -1,0 +1,42 @@
+#wewe{
+  background-color:white !important;
+}
+.fila1 {
+  background-color: #bdd9f1;
+}
+
+
+.fila2 {
+  background-color: #83a6cf;
+}
+
+.imgvision {
+  text-align: center;
+  position: relative;
+  bottom: 100px;
+}
+
+.imgmision {
+}
+
+.imgvalores {
+}
+
+.imgubicacion {
+  text-align: center;
+  position: relative;
+  bottom: 100px;
+}
+
+.imgquiensomos {
+}
+
+.vision {
+  position: relative;
+  bottom: -60px;
+}
+
+.ubicacion {
+  position: relative;
+  bottom: -60px;
+}

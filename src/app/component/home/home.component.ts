@@ -10,9 +10,12 @@ import { Component, OnInit } from '@angular/core';
 
 export class HomeComponent implements OnInit {
   public title: string;
+  public logo: string;
 
   constructor() {
-    this.title = ''
+    this.title = '';
+      this.logo = "./Logo.png";
+
   }
 
   ngOnInit() {

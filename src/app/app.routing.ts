@@ -2,7 +2,7 @@ import { ModuleWithProviders } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
 //Componentes
-
+import { weComponent } from './component/we/we.component';
 import { AppComponent } from './app.component';
 import { PayComponent } from './component/pay/pay.component';
 /*import { ContactComponent } from './component/contact/component.contact';*/
@@ -12,7 +12,7 @@ import { HomeComponent } from './component/home/home.component';
 const appRoutes: Routes = [
   { path: '', component: HomeComponent },
   { path: 'pagos', component: PayComponent },
- // { path: 'contact', component: ContactComponent },
+  { path: 'nosotros', component: weComponent },
   { path: 'home', component: HomeComponent }
 
 ];

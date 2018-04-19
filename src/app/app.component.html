@@ -3,10 +3,11 @@
     <div class="container-fluid">
 
       <div class="navbar-header">
+        <img src="{{imageLogo}}" alt="Logo" style="width:10%;">
         <a href="pagehome" class="navbar-brand">{{title}}</a>
       </div>
 
-      <ul class="nav navbar-nav navbar-center">
+      <ul class="nav navbar-nav navbar-right">
         <li>
           <ul class="nav navbar-nav">
             <li>
@@ -16,7 +17,7 @@
               </a>
             </li>
             <li>
-              <a href="#pagepay" [routerLinkActive]="['active']" >
+              <a href="#pagewe" [routerLinkActive]="['active']" >
                 <span class="glyphicon glyphicon-th-list"></span>
                 Nuestra Empresa
               </a>
@@ -37,6 +38,9 @@
 <hr />
 <div id="pagehome">
   <home></home>
+</div>
+<div id="pagewe">
+  <we></we>
 </div>
 <div id="pagepay">
   <pay></pay>
