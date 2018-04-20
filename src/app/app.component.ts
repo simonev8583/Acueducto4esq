@@ -10,20 +10,16 @@ export class AppComponent {
   public imageLogo = 'http://ambprueba.somee.com/image/logo.ico';
   public menu = 'Menú';
   public info1_footer = [
-    'Nit: 890200162 - 2',
-    'Dirección: Diagonal 32 No. 30A - 51 - Parque del Agua - Bucaramanga - Colombia',
-    'Phone: (+57) 6320220',
-  'Peticiones Quejas y Reclamos y Denuncias(PQRD): CLIC AQUÍ'
+    'DIRECCION SECTOR 3 CUATRO ESQUINAS',
+    'Calle 38ª No.40-52 y 54',
+    'TELEFAX 5615848 Y 5616282',
   ];
   public info2_footer = [
-    'CAJAS Y PQR: Lunes a Viernes 7:00 a.m. 4:00 p.m.',
-    'CORRESPONDENCIA: Lunes a Viernes 7:00 a.m. 4:00 p.m.',
-    'OFICINAS: Lunes a Viernes 7:00 a.m.a 11:50 a.m. 1:00 p.m.a 5:00 p.m.'
+    'RIONEGRO ANT.P.J. ResoluciónNo.40-434 del 180793',
+    ' emanada de la gobernación de Antioquia ',
+    'Inscripción cámara de comercio ESAL No.500-15 del 09-04-97',
+    'Superservicios No. Nit y RUT-811018505-9 '
   ];
-  public info3_footer = [
-    'LUNES Y MARTES: Sin servicio por mantenimiento',
-    'MIERCOLES A VIERNES: 8:00 a.m.a 12:00 p.m. 2:00 p.m.a 5:00 p.m',
-    'FINES DE SEMANA Y FESTIVOS: 8:00 a.m.a 5:00 p.m.En Jornada Continua'
-  ];
+
   
 }

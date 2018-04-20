@@ -3,8 +3,9 @@
     "",
     "\\src",
     "\\src\\app",
-    "\\src\\assets"
+    "\\src\\app\\component",
+    "\\src\\app\\component\\we"
   ],
-  "SelectedNode": "\\protractor.conf.js",
+  "SelectedNode": "\\src\\app\\app.module.ts",
   "PreviewInSolutionExplorer": false
 }
