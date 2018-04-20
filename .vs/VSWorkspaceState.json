@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
-    "",
     "\\src",
     "\\src\\app",
     "\\src\\app\\component",
-    "\\src\\app\\component\\we"
+    "\\src\\assets"
   ],
-  "SelectedNode": "\\src\\app\\app.module.ts",
   "PreviewInSolutionExplorer": false
 }
