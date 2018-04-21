@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
+    "",
     "\\src",
     "\\src\\app",
     "\\src\\app\\component",
+    "\\src\\app\\component\\home",
+    "\\src\\app\\component\\pay",
     "\\src\\assets"
   ],
+  "SelectedNode": "\\src\\app\\component\\pay\\pay.component.css",
   "PreviewInSolutionExplorer": false
 }
