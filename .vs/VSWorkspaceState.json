@@ -6,8 +6,9 @@
     "\\src\\app\\component",
     "\\src\\app\\component\\home",
     "\\src\\app\\component\\pay",
+    "\\src\\app\\component\\we",
     "\\src\\assets"
   ],
-  "SelectedNode": "\\src\\app\\component\\pay\\pay.component.css",
+  "SelectedNode": "\\src\\assets\\styles.css",
   "PreviewInSolutionExplorer": false
 }
