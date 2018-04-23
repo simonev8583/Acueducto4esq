@@ -4,7 +4,8 @@
 }
 
 #imgpay{
-  position:relative;
-  top:45px;
-
+  margin-top: 40%;
+  width: 80%;
+  margin-left:10%;
+  align-content:center;
 }

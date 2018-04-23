@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   public title = 'Acueducto Cuatro Esquinas';
-  public imageLogo = 'http://acueductocuatroesquinas.com.co/images/Logo.ico';
+  public imageLogo = 'http://acueductocuatroesquinas.com.co/images/Logosinfondo.png';
   public menu = 'Menú';
   public info1_footer = [
     'DIRECCION SECTOR 3 CUATRO ESQUINAS',

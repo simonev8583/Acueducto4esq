@@ -7,40 +7,29 @@
   background-color: #83a6cf;
 }
 
-.imgmision {
+.imgwe {
   width: 80%;
   height: auto;
-  position: relative;
-  top: 20px;
+  filter:grayscale(70%);
 }
 
-.imgvision {
-  width: 80%;
-  height: 0 auto;
-  position: relative;
-  top: 20px;
+.imgwe:hover {
+  filter: grayscale(0%);
+  box-shadow: 0px 0px 3px 3px grey;
 }
 
-.imgvalores {
-  width: 80%;
-  height: 0 auto;
-  position: relative;
-  top: 20px;
-}
-
-.imgubicacion {
-  width: 80%;
-  height: 0 auto;
-  position: relative;
-  top: 20px;
+@media screen and (max-width: 992px) {
+  .imgwe {
+    margin-top:3%;
+  }
 }
 
 .contenedor {
-  width: 100%;
-  margin: 0 auto;
-  overflow: hidden;
-  background-color: white;
-}
+    width: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: white;
+  }
 
 .main {
   width: 70%;
