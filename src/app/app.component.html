@@ -10,7 +10,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a style="font-size:25px;position:relative;top:10px;" class="navbar-brand" href="#home" [routerLinkActive]="['active']">{{title}}</a>
+        <a style="font-size:25px;position:relative;top:8px;" class="navbar-brand" href="#home" [routerLinkActive]="['active']">{{title}}</a>
         <img src="{{imageLogo}}" alt="Logo" style="width:10%;">
       </div>
       <div class="collapse navbar-collapse" id="myNavbar">
@@ -24,20 +24,27 @@
           <li>
             <a href="#nosotros" [routerLinkActive]="['active']">
               <span class="glyphicon glyphicon-th-list"></span>
-              Nuestra Empresa
+              Nosotros
             </a>
           </li>
           <li>
             <a href="#pagos" [routerLinkActive]="['active']">
               <span class="glyphicon glyphicon-usd"></span>
-              Realiza tu pago
+              Pagos
+            </a>
+          </li>
+          <li>
+            <a href="https://acueductocuatroesquinas.com.co/contacto/" [routerLinkActive]="['active']">
+              <span class="glyphicon glyphicon-envelope"></span>
+              PQRS
             </a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle glyphicon glyphicon-file" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" >
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true">
+              <span class="glyphicon glyphicon-file"></span>
               Informes
             </a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <div class="dropdown-menu back-menu" aria-labelledby="navbarDropdown">
               <ul>
                 <li>
                   <a href="http://acueductocuatroesquinas.com.co/esal/politica">
@@ -56,7 +63,7 @@
             </div>
           </li>
 
-          
+
         </ul>
       </div>
     </div>

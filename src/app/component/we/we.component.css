@@ -8,9 +8,10 @@
 }
 
 .imgwe {
-  width: 80%;
+  width: auto;
   height: auto;
   filter:grayscale(70%);
+  margin-top: 5%;
 }
 
 .imgwe:hover {

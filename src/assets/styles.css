@@ -67,7 +67,14 @@ footer {
   text-align:justify;
 }
 
-@media screen and (max-width: 1233px) {
+.back-menu {
+  background-color: #009688 !important;
+  min-width: 220px;
+  padding: 12px 0;
+  top: 98%;
+}
+
+@media screen and (max-width: 1263px) {
   .navbar-header {
     float: none;
   }
@@ -115,4 +122,16 @@ footer {
   .collapse.in {
     display: block !important;
   }
+
+  .back-menu {
+    background-color: #009688 !important;
+    min-width: 100%;
+    position: relative;
+    border: 0px solid rgba(0,0,0,0);
+    border-radius: 0px;
+    box-shadow: 0 0px 0px rgba(0,0,0,0);
+    padding: 12px 0;
+  }
 }
+
+
