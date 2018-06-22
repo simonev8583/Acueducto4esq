@@ -5,10 +5,7 @@
     "\\src\\app",
     "\\src\\app\\component",
     "\\src\\app\\component\\home",
-    "\\src\\app\\component\\pay",
-    "\\src\\app\\component\\we",
-    "\\src\\assets"
+    "\\src\\app\\component\\we"
   ],
-  "SelectedNode": "\\src\\favicon.ico",
   "PreviewInSolutionExplorer": false
 }

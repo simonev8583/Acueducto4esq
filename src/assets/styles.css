@@ -29,12 +29,12 @@ h1 {
 
 .navigation .navbar {
   border-radius: 0px !important;
-  background: #009688 !important;
+  background: white !important;
   border: none;
 }
 
 .navigation .navbar * {
-  color: white !important;
+  color: blue !important;
 }
 
   .navigation .navbar a:hover {
@@ -42,7 +42,7 @@ h1 {
   }
 
   .navigation .navbar .dropdown-menu * {
-    background-color: #009688;
+    background-color: white;
     color: white !important;
   }
 
@@ -68,7 +68,7 @@ footer {
 }
 
 .back-menu {
-  background-color: #009688 !important;
+  background-color: white !important;
   min-width: 220px;
   padding: 12px 0;
   top: 98%;
@@ -124,7 +124,7 @@ footer {
   }
 
   .back-menu {
-    background-color: #009688 !important;
+    background-color: white !important;
     min-width: 100%;
     position: relative;
     border: 0px solid rgba(0,0,0,0);
